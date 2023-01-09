@@ -1,0 +1,446 @@
+ 
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.home h1{
+    text-align: center;
+    padding-top: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+.home{
+width: auto;
+overflow-x: hidden;
+}
+
+.home h5{
+    padding-top: 20px;
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+
+
+.words{
+    font-size: medium;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+  
+    font-family:  sans-serif;
+}
+
+.img67 .img-fluid{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding-left: 20px;
+  position: relative;
+  padding-bottom: 40px;
+}
+
+
+.tezt_3{
+
+    padding-top: -10px;
+    position: relative;
+    top: -60px;
+    padding-bottom: 40px;
+    color:aliceblue;
+}
+
+.tezt{
+    color:aliceblue;
+}
+
+.oq{
+
+position: relative;
+padding-top: 10px;
+padding-left: 60px;
+top: -60px;
+ 
+
+}
+
+.o_w{
+
+    position: relative;
+    padding-top: 10px;
+    padding-left: 60px;
+    top: -60px;
+     
+
+
+}
+
+.test_2{
+
+    height: 20px;
+    padding: 30px;
+    size: 300px;
+    width: 20px;
+    
+    
+}
+
+.p_2{
+    position: relative;
+    padding-left: 60px;
+    top: -60px;
+
+}
+
+
+
+.tezt_2{
+    padding-top: 20px;
+    position: relative;
+    top: -50px;
+    color:aliceblue;
+}
+
+
+
+.p_1{
+    position: relative;
+    padding-left: 60px;
+    top: -60px;
+
+}
+.pa{
+     padding-top: 30px;
+     padding-left: 20px;
+     padding-right: 20px;
+     margin-left: 55px;
+     padding-bottom: 30px;
+     
+     
+}
+
+.para1 
+{
+    padding-top: 20px;
+    font-family:  sans-serif;
+    text-align: center;
+    font-size: 15px;
+   
+}
+
+.para2{
+    padding-top: 20px;
+    font-family:  sans-serif;
+    text-align: center;
+    padding-left: 20px;
+
+    font-size: 20px
+    
+}
+
+.para{
+    margin-left: 47px;
+    margin-top: 30px;
+    
+}
+
+.imag1{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+    
+}
+  
+.about{
+    width: auto;
+    overflow-x: hidden;
+    background-color:#091555;
+    }
+
+    .para3{
+        margin-left: 25px;
+        font-family:  'Arial Narrow Bold';
+        margin-left: 200px;
+        padding-top: 20px;
+        color: aliceblue
+        
+        
+    }
+
+    .head{
+        color: black;
+        padding-bottom: 30px;
+         font-size: 35px;
+         font-weight: 200;
+         font-weight: bold;
+         
+    }
+
+    .title{
+        text-align: center;
+        padding-top: 30px;
+        color: white;
+        margin-top: auto;
+       
+    }
+
+    .tit{
+        font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    padding-top: 100px;
+ margin-left: 44px;
+    }
+ 
+
+     .ul1{
+         
+        text-shadow: 1px 1px;
+         position: relative;
+         padding-bottom: 200px;
+
+    } 
+
+    .card_6{
+        position: relative;
+        padding-top: 250px;
+       margin-right: 20px;
+        padding-right: 140px;
+    } 
+
+
+  .about-title{
+    text-align: left;
+  }
+  
+
+  .test1{
+    height: 20px;
+    padding: 30px;
+    size: 300px;
+    width: 20px;
+    
+  }
+
+.b_1{
+
+    padding-left: 0px;
+    padding-top: 30px;
+}
+
+
+
+.b_2{
+
+    padding-left: 200px;
+    padding-bottom:200px;
+    position: relative;
+    top: -35px;
+}
+  .tezt_3{
+
+    padding-top: 20px;
+    position: relative;
+    top: -80px;
+
+
+  }
+
+
+
+  .test_3{
+    height: 20px;
+    padding: 30px;
+    size: 300px;
+    width: 20px;
+  }
+ 
+
+
+.p_4{
+    position: relative;
+    padding-left: 60px;
+    top: -60px;
+}
+
+
+
+  .img3{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding-top: justify;
+
+ }
+
+.rq {
+   padding-left: 30px;
+   font-size: 15px;
+   padding-bottom: 20px;
+    }
+
+.test{
+    background-color: #091555; 
+}
+
+.card1{
+    padding-top: 30px;
+    width:750px;
+    margin: 1px solid;
+    top: -95px;
+    position: relative;
+    padding-left: 10px;
+}
+.card2{
+    padding-top: 30px;
+    top: 55px;
+    position: relative;
+    padding-left: 27px;
+    padding-left: 50px;
+   
+   
+    
+
+}
+
+.footer{
+    overflow-x: hidden;
+}
+
+ .para8{
+    padding-top: 30px;
+    padding-left: 50px;
+    margin-left: 94px;
+ }
+ .footer h1{
+    padding-left: 20px;
+     
+ }
+ .button1{
+    padding-left: 30px;
+    padding-inline-end: 0%;
+    padding-bottom: 20px;
+    margin-left: 109px;
+     
+ }
+
+ .n_2{
+    padding-left: 45px;
+    margin-left: 79px;
+ }
+ .card6{
+    padding-left: 45px;
+    position: relative;
+    bottom: -69px;
+    
+    
+      
+ }
+
+ .card_0{
+
+    padding-left: 20px;
+    position: relative;
+    bottom: -69px;
+    margin-left: 120px;
+ }
+
+ 
+ .card_9{
+    position:relative;
+    top: -800px; 
+   padding-right:60px;
+   margin-bottom: 30px;
+ }
+
+ .test_0{
+    position: relative;
+    padding-bottom: 30px;
+    padding-top: -30px;
+ }
+
+
+ .p_8{
+    padding-left: 40px;
+    position: relative;
+     
+    top: -30px;
+    
+ }
+
+ .p_3{
+    padding-left: 40px;
+    position: relative;
+    top: -30px;
+ }
+
+
+ .p_10{
+    padding-left: 40px;
+    position: relative;
+    margin-bottom: 30px;
+    top: -10px;
+ }
+
+ .t_1{
+    padding-left: 40px;
+    position: relative;
+    margin-bottom: 30px;
+    top: -10px;
+ }
+
+ .col8{
+    padding-top: 10px;
+    margin: 1px solid;
+    padding-right: 10px;
+ }
+
+ .abc{
+    top:69px;
+    
+    position:relative;
+    padding-right:-20px;
+  
+ }
+
+ .h_1{
+    color: black;
+        padding-top: 30px;
+         font-size: 35px;
+         font-weight: 200;
+         font-weight: bold;
+         margin-left: 120px;
+          
+         
+ }
+
+
+ .card6:hover {
+  cursor: pointer;
+    box-shadow: 1px solid;
+ }
+
+ @media (max-width:768px) {
+    .about{
+        width:100%;
+        height: auto;
+        overflow-x: hidden;
+        
+        
+    }
+    .imag1{
+        width:100%;
+        height: auto; 
+    }
+    .h1{
+
+        width:100%;
+        height: auto;  
+ }
+}
